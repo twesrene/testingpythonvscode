@@ -1,3 +1,9 @@
+import time
+import random
+
+skorsaya = 0
+skorcomp = 0
+
 while True:
 
     print("1 = rock , 2 = paper , 3 = scissor")
