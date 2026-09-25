@@ -3,6 +3,7 @@ Hi this is where i am going to test out my code using python (VSCODE)
 Contents:
 1. simple calculator
 2. rock paper scissor
+3. auto combat
 
 How to run it?
 1. If you have Vs code and python on it just copy the code and run it normally
