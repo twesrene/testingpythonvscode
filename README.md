@@ -16,8 +16,7 @@ Apps i used:
 1. Vs Code (Python)
 2. GitHub
 
-These are the codes preview:
-
+These are the codes photo preview:
 Chinese Dictionary
 
 <img width="263" alt="image" src="https://github.com/user-attachments/assets/1633d492-22e2-4d37-a272-a51ea19e0e10" />
