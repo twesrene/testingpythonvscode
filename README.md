@@ -18,10 +18,12 @@ Apps i used:
 
 These are the codes preview:
 Dictionary
+
 <img width="263" alt="image" src="https://github.com/user-attachments/assets/1633d492-22e2-4d37-a272-a51ea19e0e10" />
 
 
 Rock Paper Scissor
+
 <img width="258" alt="image" src="https://github.com/user-attachments/assets/4142bb44-fe6b-45a6-9fec-72af5cd42f5d" />
 
 
