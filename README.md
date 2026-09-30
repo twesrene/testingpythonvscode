@@ -18,7 +18,7 @@ Apps i used:
 
 These are the codes preview:
 
-Dictionary
+Chinese Dictionary
 
 <img width="263" alt="image" src="https://github.com/user-attachments/assets/1633d492-22e2-4d37-a272-a51ea19e0e10" />
 
@@ -32,3 +32,12 @@ Escape room
 
 <img width="231" height="482" alt="image" src="https://github.com/user-attachments/assets/17638edd-5891-4e14-a710-f3553c05f041" />
 
+
+Auto Combat
+
+<img width="203" height="328" alt="image" src="https://github.com/user-attachments/assets/1c944837-7004-49e2-96de-f94681d9a4ab" />
+
+
+Rock Paper Scissor
+
+<img width="283" height="223" alt="image" src="https://github.com/user-attachments/assets/b3135e55-5a5a-4150-972c-8025d88804ed" />
