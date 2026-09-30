@@ -19,5 +19,5 @@ while True:
         print(dict[word])
         break
     else:
-        print("invalid word")
+        print("Sorry this is an invalid word")
     
