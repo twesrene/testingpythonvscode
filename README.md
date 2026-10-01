@@ -41,3 +41,9 @@ Auto Combat
 Rock Paper Scissor
 
 <img width="283" height="223" alt="image" src="https://github.com/user-attachments/assets/b3135e55-5a5a-4150-972c-8025d88804ed" />
+
+
+Food Menu
+
+<img width="304" height="403" alt="image" src="https://github.com/user-attachments/assets/f489635c-bad3-42ca-8861-14709e6c52a3" />
+
