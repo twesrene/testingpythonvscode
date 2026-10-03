@@ -6,6 +6,7 @@ Contents:
 3. auto combat
 4. escape room
 5. chinese dictionary
+6. secret code
 
 How to run it?
 1. If you have Vs code and python on it just copy the code and run it normally
@@ -46,4 +47,12 @@ Rock Paper Scissor
 Food Menu
 
 <img width="304" height="403" alt="image" src="https://github.com/user-attachments/assets/f489635c-bad3-42ca-8861-14709e6c52a3" />
+
+
+Secret code
+
+<img width="416" height="158" alt="image" src="https://github.com/user-attachments/assets/7341f3dc-a0ce-4a8e-9d1f-ae7751c7e231" />
+
+
+
 
