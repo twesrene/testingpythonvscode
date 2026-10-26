@@ -1,12 +1,12 @@
 Hi there this is where i am going to test out my code using python (VSCODE)
 
 Contents:
-1. simple calculator
-2. rock paper scissor
-3. auto combat
-4. escape room
-5. chinese dictionary
-6. secret code
+1. Simple calculator
+2. Rock paper scissor
+3. Auto combat
+4. Escape room
+5. Chinese dictionary
+6. Secret code
 
 How to run it?
 1. If you have Vs code and python on it just copy the code and run it normally (don't forget to add .py at the end)
